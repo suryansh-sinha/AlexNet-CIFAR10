@@ -23,4 +23,4 @@ We use the dataset already provided to us by `torchvision.datasets`. The standar
 # Training
 I have trained the model with data having `batch_size=32`, `learning_rate=0.001` and have used the `Adam` optimizer. This was done to improve the performance of the model since I don't powerful hardware to train it locally on my machine.
 
-The model has an accuracy of 71% on the test dataset when trained on 25 epochs. Will train it for more epochs and update here.
+The model has an accuracy of 76% on the test dataset when trained on 50 epochs.
